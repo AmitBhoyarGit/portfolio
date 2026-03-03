@@ -115,7 +115,7 @@ function App() {
 
 
 
-      <nav className="fixed bottom-6 left-1/2 -translate-x-1/2 w-[calc(100%-3rem)] max-w-sm glass-card h-16 rounded-full flex items-center justify-around px-2 z-50 shadow-2xl border-white/5">
+      {/* <nav className="fixed bottom-6 left-1/2 -translate-x-1/2 w-[calc(100%-3rem)] max-w-sm glass-card h-16 rounded-full flex items-center justify-around px-2 z-50 shadow-2xl border-white/5">
         <a className="flex flex-col items-center justify-center p-2 rounded-full bg-primary/10 text-primary" href="#">
           <span className="material-symbols-outlined">home</span>
         </a>
@@ -128,7 +128,7 @@ function App() {
         <a className="flex flex-col items-center justify-center p-2 rounded-full text-slate-400 hover:text-slate-100 hover:bg-white/5 transition-all" href="#">
           <span className="material-symbols-outlined">mail</span>
         </a>
-      </nav>
+      </nav> */}
     </div>
   )
 }
